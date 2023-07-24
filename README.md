@@ -39,6 +39,5 @@ This project includes an algorithm developed for merging texts and an applicatio
 
 ## Screenshots
 
-![Interface]([screenshot.png](https://github.com/frknksp/text-merger/blob/main/sstextmerger.png?raw=true)https://github.com/frknksp/text-merger/blob/main/sstextmerger.png?raw=true)
 ![alt text](https://github.com/frknksp/text-merger/blob/main/sstextmerger.png?raw=true)
 
